@@ -7,3 +7,10 @@ Ao final da atividade, o estudante deverá ser capaz de:
 - Realizar inserções e remoções nas duas extremidades da estrutura.
 - Tratar situações de erro, como remoção em estrutura vazia.
 - Desenvolver um pequeno teste em console para validar o comportamento da classe.
+
+
+Ter o Python 3 instalado.
+
+Para rodar o teste, abra o terminal na pasta e digitar
+
+python deque.py
