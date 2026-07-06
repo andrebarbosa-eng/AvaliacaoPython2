@@ -98,4 +98,4 @@ if __name__ == "__main__":
     print("15) remove_last() com deque vazio =>", fila.remove_last())
     print("16) remove_first() com deque vazio =>", fila.remove_first())
 
-    print("Estado final:", fila)
+    print("Situação final:", fila)
