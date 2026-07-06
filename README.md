@@ -13,4 +13,6 @@ Ter o Python 3 instalado.
 
 Para rodar o teste, abra o terminal na pasta e digitar
 
+```
 python deque.py
+```
