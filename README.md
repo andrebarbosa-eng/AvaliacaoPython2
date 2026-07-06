@@ -9,6 +9,9 @@ Ao final da atividade, o estudante deverá ser capaz de:
 - Desenvolver um pequeno teste em console para validar o comportamento da classe.
 
 
+
+# Como testar
+
 Ter o Python 3 instalado.
 
 Para rodar o teste, abra o terminal na pasta e digitar
